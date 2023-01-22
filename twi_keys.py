@@ -1,5 +1,5 @@
-api = 'RxfACJjpqIbweyCc8YiUO8alr'
-apiSecret = 'dHNAWqcLa4aCvitWLSgDZSUEi5gq1Etx5ayM2UQXfLdbJwFCJH'
-bearerToken = 'AAAAAAAAAAAAAAAAAAAAADY6lQEAAAAAgQuFTnbWWZrLOrVMrEQvdpi7XIU'
-accessToken = '1615939577436426240-rHu8pcAkAEcUDtHhr5qClfGQtMEVr5'
+api = 'XXX' #Use your own Twitter API keys
+apiSecret = 'XXX'
+bearerToken = 'XXX'
+accessToken = 'XYZ'
 accessTokenSecret = '3eoJVUwwk1ptZJJ6hxL3SVUImRjk4NLiHuqI537vn4urH'
